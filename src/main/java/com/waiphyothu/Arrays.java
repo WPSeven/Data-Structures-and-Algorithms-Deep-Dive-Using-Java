@@ -1,6 +1,6 @@
 package com.waiphyothu;
 
-public class Main {
+public class Arrays {
 
     public static void main(String[] args) {
 
@@ -17,8 +17,8 @@ public class Main {
         for (int i =0; i < intArray.length; i++){
 
             System.out.println("Hello "+intArray[i]);
-
         }
 
     }
+
 }
