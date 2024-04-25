@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6430facd-8fcb-4ab9-9972-0886aae422c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/arraylists/ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/arraylists/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/vector/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/vector/VectorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.waiphyothu.vector" />
       <recent name="com.waiphyothu" />
     </key>
   </component>
