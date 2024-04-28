@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6430facd-8fcb-4ab9-9972-0886aae422c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/jdklinkedlists/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/jdklinkedlists/Main.java" afterDir="false" />
+    <list default="true" id="6430facd-8fcb-4ab9-9972-0886aae422c9" name="Changes" comment="jdk linked lists testing">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/linkedstack/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/linkedstack/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/linkedstack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/stacks/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/stacks/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/stacks/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/stackschallengepalindrome/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,24 +49,28 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/wp/Documents/DevSpace/IdeaProjects/Data-Structures-and-Algorithms-Deep-Dive-Using-Java/src/main/java/com/waiphyothu/jdklinkedlists"
+    "last_opened_file_path": "/Users/wp/Documents/DevSpace/IdeaProjects/Data-Structures-and-Algorithms-Deep-Dive-Using-Java/src/main/java/com/waiphyothu/linkedstack"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/linkedstack" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/stacks" />
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/jdklinkedlists" />
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/linkedlists" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/stackschallengepalindrome" />
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/doublylinkedlists" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.waiphyothu.stacks" />
       <recent name="com.waiphyothu.linkedlists" />
       <recent name="com.waiphyothu.vector" />
       <recent name="com.waiphyothu" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayLists">
+  <component name="RunManager" selected="Application.SinglyLinkedLists">
     <configuration name="ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.waiphyothu.arraylists.ArrayLists" />
       <module name="Data-Structures-and-Algorithms-Deep-Dive-Using-Java" />
@@ -100,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortDesc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.waiphyothu.MergeSortDesc" />
+    <configuration name="RadixSortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waiphyothu.RadixSortString" />
       <module name="Data-Structures-and-Algorithms-Deep-Dive-Using-Java" />
       <extension name="coverage">
         <pattern>
@@ -113,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadixSortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.waiphyothu.RadixSortString" />
+    <configuration name="SinglyLinkedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waiphyothu.linkedlists.SinglyLinkedLists" />
       <module name="Data-Structures-and-Algorithms-Deep-Dive-Using-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.waiphyothu.arraylists.*" />
+          <option name="PATTERN" value="com.waiphyothu.linkedlists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SinglyLinkedLists" />
         <item itemvalue="Application.ArrayLists" />
         <item itemvalue="Application.RadixSortString" />
         <item itemvalue="Application.InsertionSortWithRecursion" />
         <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.MergeSortDesc" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +166,14 @@
       <option name="presentableId" value="Default" />
       <updated>1701752170021</updated>
     </task>
+    <task id="LOCAL-00001" summary="jdk linked lists testing">
+      <created>1714300280325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714300280325</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +186,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jdk linked lists testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="jdk linked lists testing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -199,5 +221,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.waiphyothu.linkedlists.EmployeeNode" memberName="next" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
