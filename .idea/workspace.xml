@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6430facd-8fcb-4ab9-9972-0886aae422c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/linkedlists/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/linkedlists/EmployeeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/linkedlists/EmployeeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/linkedlists/SinglyLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/doublylinkedlists/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/doublylinkedlists/EmployeeDoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/doublylinkedlists/EmployeeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/doublylinkedlists/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,17 +41,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/wp/Documents/DevSpace/IdeaProjects/Data-Structures-and-Algorithms-Deep-Dive-Using-Java/src/main/java/com/waiphyothu/linkedlists"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/wp/Documents/DevSpace/IdeaProjects/Data-Structures-and-Algorithms-Deep-Dive-Using-Java/src/main/java/com/waiphyothu/linkedlists&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/linkedlists" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/doublylinkedlists" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.waiphyothu.linkedlists" />
