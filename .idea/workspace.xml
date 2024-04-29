@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6430facd-8fcb-4ab9-9972-0886aae422c9" name="Changes" comment="jdk linked lists testing">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/linkedstack/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/linkedstack/LinkedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/linkedstack/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/stacks/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/stacks/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/stacks/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/stackschallengepalindrome/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/circularqueu/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/circularqueu/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/circularqueu/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/queues/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/queues/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/queues/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,15 +48,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/wp/Documents/DevSpace/IdeaProjects/Data-Structures-and-Algorithms-Deep-Dive-Using-Java/src/main/java/com/waiphyothu/linkedstack"
+    "last_opened_file_path": "/Users/wp/Documents/DevSpace/IdeaProjects/Data-Structures-and-Algorithms-Deep-Dive-Using-Java/src/main/java/com/waiphyothu/circularqueu"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/circularqueu" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/queues" />
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/linkedstack" />
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/stacks" />
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/jdklinkedlists" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/linkedlists" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/stackschallengepalindrome" />
