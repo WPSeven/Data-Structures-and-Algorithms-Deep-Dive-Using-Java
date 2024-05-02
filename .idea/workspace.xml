@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6430facd-8fcb-4ab9-9972-0886aae422c9" name="Changes" comment="jdk linked lists testing">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/hashtable/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/hashtable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/hashtable/SimpleHashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/hashtable/StoredEmployee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,16 +46,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/wp/Documents/DevSpace/IdeaProjects/Data-Structures-and-Algorithms-Deep-Dive-Using-Java/src/main/java/com/waiphyothu/circularqueu"
+    "last_opened_file_path": "/Users/wp/Documents/DevSpace/IdeaProjects/Data-Structures-and-Algorithms-Deep-Dive-Using-Java/src/main/java/com/waiphyothu/hashtable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/hashtable" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/queueschallenge" />
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/circularqueu" />
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/queues" />
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/linkedstack" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/stacks" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/jdklinkedlists" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/stackschallengepalindrome" />
