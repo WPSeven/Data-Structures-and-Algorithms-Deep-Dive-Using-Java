@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6430facd-8fcb-4ab9-9972-0886aae422c9" name="Changes" comment="jdk linked lists testing">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/bucketsort/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/hashtable/hashtableschallenge/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/hashtable/hashtableschallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/search/binarysearch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/search/linearsearch/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,16 +44,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/wp/Documents/DevSpace/IdeaProjects/Data-Structures-and-Algorithms-Deep-Dive-Using-Java/src/main/java/com/waiphyothu/hashtable/hashtableschallenge"
+    "last_opened_file_path": "/Users/wp/Documents/DevSpace/IdeaProjects/Data-Structures-and-Algorithms-Deep-Dive-Using-Java/src/main/java/com/waiphyothu/search/binarysearch"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/search/binarysearch" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/search/linearsearch" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/hashtable/hashtableschallenge2" />
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/hashtable/hashtableschallenge" />
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/concatenat" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/hashtable" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/queueschallenge" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/circularqueu" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/stackschallengepalindrome" />
