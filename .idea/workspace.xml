@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6430facd-8fcb-4ab9-9972-0886aae422c9" name="Changes" comment="jdk linked lists testing">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/search/binarysearch/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/search/linearsearch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/binarysearchtrees/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/binarysearchtrees/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/waiphyothu/binarysearchtrees/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,16 +45,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/wp/Documents/DevSpace/IdeaProjects/Data-Structures-and-Algorithms-Deep-Dive-Using-Java/src/main/java/com/waiphyothu/search/binarysearch"
+    "last_opened_file_path": "/Users/wp/Documents/DevSpace/IdeaProjects/Data-Structures-and-Algorithms-Deep-Dive-Using-Java/src/main/java/com/waiphyothu/binarysearchtrees"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/binarysearchtrees" />
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/search/binarysearch" />
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/search/linearsearch" />
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/hashtable/hashtableschallenge2" />
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/hashtable/hashtableschallenge" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/concatenat" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/waiphyothu/stackschallengepalindrome" />
@@ -66,22 +67,9 @@
       <recent name="com.waiphyothu" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.com.waiphyothu.binarysearchtrees.Main">
     <configuration name="ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.waiphyothu.arraylists.ArrayLists" />
-      <module name="Data-Structures-and-Algorithms-Deep-Dive-Using-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.waiphyothu.arraylists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InsertionSortWithRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.waiphyothu.InsertionSortWithRecursion" />
       <module name="Data-Structures-and-Algorithms-Deep-Dive-Using-Java" />
       <extension name="coverage">
         <pattern>
@@ -132,6 +120,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.waiphyothu.binarysearchtrees.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waiphyothu.binarysearchtrees.Main" />
+      <module name="Data-Structures-and-Algorithms-Deep-Dive-Using-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waiphyothu.binarysearchtrees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -145,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.waiphyothu.binarysearchtrees.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.SinglyLinkedLists" />
         <item itemvalue="Application.ArrayLists" />
         <item itemvalue="Application.RadixSortString" />
-        <item itemvalue="Application.InsertionSortWithRecursion" />
       </list>
     </recent_temporary>
   </component>
